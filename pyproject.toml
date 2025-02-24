@@ -20,6 +20,7 @@ black = "^24.4.2"
 isort = "^5.13.2"
 pytest = "^8.2.0"
 langchain-chroma = "^0.1.0"
+streamlit = "^1.42.0"
 
 [build-system]
 requires = ["poetry-core"]

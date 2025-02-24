@@ -1,0 +1,3 @@
+[server]
+# Substitua pelo caminho do seu ambiente Poetry
+pythonPath = "./.venv/bin/python"
