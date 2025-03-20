@@ -6,4 +6,4 @@ from graph.graph import app
 
 if __name__ == "__main__":
     print("Hello Advanced RAG")
-    print(app.invoke(input={"question": "neymar is greater basketball player?"}))
+    print(app.invoke(input={"question": "santos tem a maior torcida do brasil?"}))
